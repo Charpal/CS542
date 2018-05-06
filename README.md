@@ -1,1 +1,2 @@
-# CS542
+o# CS542
+Project for a class
